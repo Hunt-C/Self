@@ -2882,7 +2882,7 @@ ul.breadcrumb li+li:last-child {
   }
 }
 body {
-  background: url("images/test.jpg");
+  background: url("../images/test.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: 50% 50%;
